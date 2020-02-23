@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1582451744 source:c:\users\hyper\desktop\codeblocks\adunare\main.cpp
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+	<conio.h>
+	<tchar.h>
+
+1582378422 source:c:\users\hyper\desktop\codeblocks\adunare\game.cpp
+	<iostream>
+	<windows.h>
+
+1582452610 source:c:\users\hyper\desktop\codeblocks\raul's program 1.0.0\raul's program 1.0.0\raul's project 1.0.0\main.cpp
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+	<conio.h>
+	<tchar.h>
+
